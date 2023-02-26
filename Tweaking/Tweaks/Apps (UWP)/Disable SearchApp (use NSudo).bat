@@ -1,0 +1,1 @@
+move C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe C:\Windows

@@ -1,0 +1,12 @@
+Thanks for downloading Valorant FPS Boost Pack by fragval <3
+These files are registry files and won't hurt your computer, you can create a restore point to make sure that everything is gonna be okay.
+
+How to use fragval's FPS Boost Pack:
+Simply just merge/click every regedit file you see in PC Optimisation.
+Secondly, then select your RAM in RAM Optimisation. (I personally use 32GB of RAM) 
+Thirdly, in the last part choose Valorant Priority to high.
+Lastly, open TimerResolution and press Maximum. DON'T press X/close the program, just press -/minimize it and run it in the background while playing Valorant. 
+This program helps in any game not only Valorant and it's gonna make your game feel about 0,5 reduced input lag,
+in my opinion it's not noticable but it can help you clutch because of that small diff that TimerResolution gives you.
+
+If you have any problem feel free to DM me.

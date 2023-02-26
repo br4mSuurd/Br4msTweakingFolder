@@ -1,0 +1,15 @@
+Enable Reader Mode - disabled
+
+WebRTC remote-bound event logging - disabled
+
+Parallel downloading - enabled
+
+Tab Hover Cards - disabled
+
+Enable lazy image loading - enabled ( Automatically lazily load )
+
+Enable lazy frame loading - enabled ( Automatically lazily load )
+
+Secure DNS lookups - enabled
+
+WinRT Geolocation Implementation - disabled

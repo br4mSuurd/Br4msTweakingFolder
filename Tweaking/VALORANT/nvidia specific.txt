@@ -1,0 +1,8 @@
+Before you import this profile:
+
+- Latest NVIDIA Profile Inspector is required alongside drivers newer than 526.47.
+- It's made for the highest performance. Not visual quality.
+- It disables features you might like in other games such as G-Sync and Freesync. You may change those
+settings back if you prefer to use that. This game typically has fps higher than the monitors maximum refresh rate,
+which is why it's disabled.
+- It can introduce issues if you use GeForce Experience.
