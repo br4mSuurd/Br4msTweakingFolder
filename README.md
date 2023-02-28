@@ -1,4 +1,4 @@
-#Optimization Pack for games by Br4m
+# Optimization Pack for games by Br4m
 ## This GitHub project is designed to optimize your computer for gaming, specifically for the game Valorant. The project contains various folders with different types of optimizations to improve your gaming experience by reducing latency and improving FPS.
 
 ### Project Description
